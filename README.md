@@ -24,3 +24,15 @@ _italic text_
 **_all bold and italic_**
 
 > some code
+
+### unorder list
+
+-item
+-item
+-item
+
+### order list
+
+1. item
+2. item
+3. item
